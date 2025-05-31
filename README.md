@@ -16,5 +16,4 @@ Genetic Algorithm: The Genetic Algorithm is an optimisation technique inspired b
 context, we represent potential colourings as chromosomes. The algorithm evolves a population of colourings
 over generations using genetic operations such as crossover and mutation. The fittest colourings, those with
 fewer conflicts, are more likely to be passed to the next generation.
-لعه
-لع
+USING GUI
